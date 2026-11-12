@@ -1,0 +1,16 @@
+scripts/
+s2dnet/
+configs/
+requirements.txt
+data/
+outputs/
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.py[cod]
+__pycache__/
+.venv/
+*.log
+.DS_Store
+Thumbs.db

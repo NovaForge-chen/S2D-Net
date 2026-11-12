@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the S2D-Net manuscript."
+title: "S2D-Net: A Unified Data-Driven CBCT Reconstruction Framework for High-Resolution Projections from Extremely Sparse to Semi-Dense Views"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Wanlou
+  - family-names: Li
+    given-names: Juan
+  - family-names: Xu
+    given-names: Hongchun
+    email: hongchunxu@nanovision.com.cn
+  - family-names: Hu
+    given-names: Zhiyong
